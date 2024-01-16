@@ -1,0 +1,119 @@
+{
+  "title": "Would you be a hero or a villain?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which superpower would you choose?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Laser Beams",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Fly",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Explode things",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Heal wounds",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Shoot fire from hands",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who would you save first?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Children",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Elderly",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Can't decide",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is your main concern when facing another super being?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Not destroying buildings",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Punching the enemy's face",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Not dirtying my costume",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Not letting anyone get hurt",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What is your main focus?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Get rich with powers",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Save the city",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is your superhero nickname?",
+      "options": [
+        {
+          "id": 1,
+          "name": "The Terrible",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Friendly Neighborhood",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "You would most likely be a supervillain!",
+    "B": "You would most likely be a superhero!"
+  }
+}
